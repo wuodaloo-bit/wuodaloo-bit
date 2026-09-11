@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Victor Odhiambo | Python & JavaScript Developers
+# Victor Odhiambo | Python & JavaScript Developer
 Building practical tools that solve actual problems. Based in Kenya.
 
 ### What I Build
