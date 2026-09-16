@@ -3,6 +3,11 @@
 Building practical tools that solve actual problems. Based in Kenya.
 
 ### What I Build
+* **School Data Automation:** Custom Python scripts converting raw grade sheets into PDF report cards.
+* **API Integration & Workflows:** Connecting disconnected tools to eliminate manual data copy-pasting.
+* **AI Writing Automation:** tailored OpenAI API tools generating structured drafts in specific brand voices.
+
+### What I Build
 * Data pipelines and automation scripts in Python
 * Web applications and scripts using JavaScript and Node.js
 * Machine learning models using pandas, NumPy, and scikit-learn
